@@ -1,6 +1,6 @@
 ## Hi, I am Abhishek!
 
-### I am Web Developer by passion!
+### I am a Web Developer by passion!
 
 ### Languages, Frameworks and Tools:
 
