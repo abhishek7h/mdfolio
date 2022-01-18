@@ -1,6 +1,6 @@
 ## Hi, I am Abhishek!
 
-### I am a Web Developer by passion!
+### I am a Developer by passion.
 
 ### Languages, Frameworks and Tools:
 
@@ -8,6 +8,7 @@
 - HTML
 - CSS
 - JavaScript
+- Python
 - React
 - Tailwind
 - Git
