@@ -1,10 +1,11 @@
-## Hi, I am Abhishek!
+## Hi, I am Abhishek.
 
 ### I am a Developer by passion.
 
 ### Languages, Frameworks and Tools:
 
 - Visual Studio Code
+- Obsidian
 - HTML
 - CSS
 - JavaScript
@@ -14,9 +15,8 @@
 - Git
 - GitHub
 
-### Connect with me:
+### Blog:
 
-- [Website](https://ah7.dev)
-- [Twitter](https://twitter.com/abhishek7h)
+- [Medium](https://abhi.gq)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek7h&show_icons=true&theme=prussian)
