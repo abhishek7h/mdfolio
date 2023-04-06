@@ -17,6 +17,5 @@
 
 ### Blog:
 
-- [Medium](https://abhi.gq)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek7h&show_icons=true&theme=prussian)
+- [Medium](https://ah3.medium.com)
+- [Website](https://abhishekhari.netlify.app)
