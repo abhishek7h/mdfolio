@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek7h" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek7h?logo=twitter&style=for-the-badge" alt="abhishek7h" /></a> </p>
 
-- 📰 Subscribe to my newsletter [geekly.substack.com](geekly.substack.com)
-
-- 📝 I regularly write articles on my website [abhishekhari.com](abhishekhari.com)
+- 🌏 I'm from **India**
 
 - 🌱 I’m currently learning **React**
 
 - 📫 Reach me via **abhishek18h@gmail.com**
+
+- 📰 Subscribe to my newsletter [geekly.substack.com](geekly.substack.com)
+
+- 📝 I regularly write articles on my website [abhishekhari.com](abhishekhari.com)
 
 - 📄 Know about my experiences [ah3.read.cv](ah3.read.cv)
 
