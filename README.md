@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 Reach me via **abhishek18h@gmail.com**
+- 📫 Reach me via **[abhishek18h@gmail.com](mailto:abhishek18h@gmail.com)**
 
 - 📝 I regularly write articles on my Medium [ah3.medium.com](ah3.medium.com)
 
