@@ -7,19 +7,19 @@
 
 - 🌏 I'm from **India**
 
+- 🐍 My favourite language is **Python**
+
 - 🌱 I’m currently learning **React**
 
 - 📫 Reach me via **abhishek18h@gmail.com**
 
-- 📰 Subscribe to my newsletter [geekly.substack.com](geekly.substack.com)
-
-- 📝 I regularly write articles on my website [abhishekhari.com](abhishekhari.com)
+- 📝 I regularly write articles on my Medium [ah3.medium.com](ah3.medium.com)
 
 - 📄 Know about my experiences [ah3.read.cv](ah3.read.cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ah7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ah7" height="30" width="40" /></a>
+<a href="https://dev.to/ah3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ah7" height="30" width="40" /></a>
 <a href="https://twitter.com/abhishek7h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek7h" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16514837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16514837" height="30" width="40" /></a>
 <a href="https://instagram.com/inlovewiththeskies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inlovewiththeskies" height="30" width="40" /></a>
