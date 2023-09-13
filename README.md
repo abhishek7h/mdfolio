@@ -13,9 +13,9 @@
 
 - 📫 Reach me via **[abhishek18h@gmail.com](mailto:abhishek18h@gmail.com)**
 
-- 📝 I regularly write articles on my Medium [ah3.medium.com](ah3.medium.com)
+- 📝 I regularly write articles on my Medium [ah3.medium.com](https://ah3.medium.com)
 
-- 📄 Know about my experiences [ah3.read.cv](ah3.read.cv)
+- 📄 Know about my experiences [ah3.read.cv](https://ah3.read.cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
