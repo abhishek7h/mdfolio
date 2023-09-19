@@ -6,11 +6,11 @@
   
 - 📚 I love English **Literature**
 
-- 📝 Check out my blog on Medium [ah3.medium.com](https://ah3.medium.com)
+- 📝 Check out my blog on **Medium [ah3.medium.com](https://ah3.medium.com)**
 
-- 🏆 2023 KBS State Kalotsavam Kalaprathibha (MVP)
+- 🏆 2023 KBS State Kalotsavam **Kalaprathibha** (MVP)
 
-- ⚽ Lover of the beautiful game. Supports RM and KBFC.
+- ⚽ Lover of the beautiful game. **Hala Madrid**
 
 - 📫 Reach me via **[hey@abhishekhari.com](mailto:hey@abhishekhari.com)**
 
