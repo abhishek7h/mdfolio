@@ -11,9 +11,11 @@
 
 - 🌱 I’m currently learning **React**
 
+- 🏆 2023 KBS State Kalotsavam Kalaprathibha (MVP) 
+
 - 📫 Reach me via **[hey@abhishekhari.com](mailto:hey@abhishekhari.com)**
 
-- ⚽ I love football! ¡Hala Madrid!
+- ⚽ Lover of the beautiful game. Supports RM and KBFC.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
