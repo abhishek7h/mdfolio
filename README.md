@@ -1,21 +1,18 @@
 <h1 align="center">Hey, I'm Abhishek 👋</h1>
-<h3 align="center">Student - Developer - Writer</h3>
 
 <p align="left"> <a href="https://twitter.com/abhishek7h" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek7h?logo=twitter&style=for-the-badge" alt="abhishek7h" /></a> </p>
 
 - 🌏 I'm from **India**
-
-- 🐍 My favourite language is **Python**
+- 
+- 📚 I love English **Literature**
 
 - 📝 Check out my blog on Medium [ah3.medium.com](https://ah3.medium.com)
 
-- 🌱 I’m currently learning **React**
-
-- 🏆 2023 KBS State Kalotsavam Kalaprathibha (MVP) 
-
-- 📫 Reach me via **[hey@abhishekhari.com](mailto:hey@abhishekhari.com)**
+- 🏆 2023 KBS State Kalotsavam Kalaprathibha (MVP)
 
 - ⚽ Lover of the beautiful game. Supports RM and KBFC.
+
+- 📫 Reach me via **[hey@abhishekhari.com](mailto:hey@abhishekhari.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
